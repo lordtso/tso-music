@@ -1,9 +1,9 @@
 <p align="center">
-    <br><b>😫 𝗦𝘁𝗮𝗿 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <br><b>🚧 𝐓𝐇𝐄 𝐒𝐇𝐈𝐕 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 🚧</b><br>
 </p>
-<p align="center"><a href="https://t.me/Best_FriendsFor_Evet"><img src="https://telegra.ph/file/252fc4a5c64895b0e539c.jpg"></a></p>
+<p align="center"><a href="https://t.me/full_on_bakchodi"><img src="https://te.legra.ph/file/17e1993b1f667694ff621.jpg"></a></p>
 
-Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
+Tso Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/Starboihacks369/star-music?style=for-the-badge" alt="Stars">
@@ -59,12 +59,12 @@ Fallen Music is a Telegram Bot project that allows you to play music on Telegram
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Starboihacks369/star-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/lordtso/tso-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 The easiest way to host this bot, Deploy on Heroku, Change the app country to Europe (it will help to make the bot more stable).
 
 ## ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Starboihacks369/star-music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/lordtso/star-music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 The second easiest way to host this bot, Deploy on Okteto Cloud
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
@@ -84,15 +84,15 @@ vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit th
 python3 main.py # Run the bot
 ```
 
-### ᴄʀᴇᴅɪᴛs 💖
-- [𝐒𝐓𝐀𝐑 𝐁𝐎𝐈](https://github.com/Starboihacks369): Developer
-- [Star Music Bot](https://telegram.me/itz_star_robot): Test Bot
+### ᴄʀᴇᴅɪᴛs 
+- [𝐓𝐇𝐄 𝐒𝐇𝐈𝐕 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋](https://github.com/lordtso): Developer
+- [Tso Music Bot](): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://telegram.me/Best_FriendsFor_Ever"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/its_star_boi"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/full_on_bakchodi"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TSOSUPPORTCHAT"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
 -------------------------------------------------
